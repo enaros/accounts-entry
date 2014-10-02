@@ -1,4 +1,5 @@
 ---
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/enaros/accounts-entry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 layout: default
 username: Differential
 repo: accounts-entry
